@@ -1,0 +1,72 @@
+{
+    "cSpell.language": "en,pt_BR",
+  
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Min Dark",
+    "workbench.startupEditor": "none",
+    "workbench.editor.labelFormat": "short",
+  
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.renderLineHighlight": "gutter",
+    "editor.formatOnSave": true,
+    "editor.rulers": [80, 100],
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+  
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "git.terminalGitEditor": true,
+    "terminal.integrated.env.windows": {},
+  
+    "explorer.confirmDragAndDrop": false,
+    "explorer.compactFolders": false,
+  
+    // prettier
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSaveMode": "file",
+  
+    "format_on_save": true,
+    "githubPullRequests.pullBranch": "never",
+    "editor.inlineSuggest.showToolbar": "always",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "githubPullRequests.createOnPublishBranch": "never",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "workbench.activityBar.location": "top",
+    "tailwind-fold.autoFold": false,
+    "symbols.hidesExplorerArrows": false,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.autofetch": true,
+    "[javascript]": {
+      "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "terminal.integrated.env.osx": {},
+    "console-ninja.featureSet": "Community",
+    "cSpell.userWords": ["Palmieri"],
+    "[html]": {
+      "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "prisma.showPrismaDataPlatformNotification": false,
+    "github.copilot.editor.enableAutoCompletions": true,
+  
+    "[typescript]": {
+      "editor.codeActionsOnSave": {
+        "source.organizeImports": "always"
+      }
+    },
+    "[typescriptreact]": {
+      "editor.codeActionsOnSave": {
+        "source.organizeImports": "always"
+      }
+    }
+}
+  
